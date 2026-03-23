@@ -14,7 +14,26 @@ Prompt 4: Pantalla de Perfil de Usuario
 
 Prompt 5: Pantalla de Ajustes (Panel de Control)
 "Diseña la última sección llamada Ajustes. A diferencia de las anteriores, esta pantalla debe ser minimalista: sin listas ni imágenes de red. Coloca en el centro un único icono grande (size: 160) de configuración como Icons.manage_accounts o Icons.tune en un color blanco sutil o gris oscuro. Debajo del icono, añade el texto 'Preferencias del Sistema' con un espaciado de letras (letter-spacing) de 1.5 para un toque elegante."
+<img width="1220" height="663" alt="image" src="https://github.com/user-attachments/assets/6ca15b16-6a9d-43eb-9237-63532081c38d" />
+<img width="1220" height="663" alt="image" src="https://github.com/user-attachments/assets/6ca15b16-6a9d-43eb-9237-63532081c38d" />
+<img width="1227" height="668" alt="image" src="https://github.com/user-attachments/assets/6fe603b3-1b34-4d0d-a89a-9ca8f62d5819" />
+<img width="1228" height="660" alt="image" src="https://github.com/user-attachments/assets/ffc242ce-181e-4c10-af8b-47973d092664" />
+<img width="1222" height="652" alt="image" src="https://github.com/user-attachments/assets/d8edcd94-d4e4-4f26-80b1-7aaa3e033292" />
+<img width="357" height="600" alt="image" src="https://github.com/user-attachments/assets/c7da567a-3829-487c-a369-68a984e3835c" />
+<img width="366" height="624" alt="image" src="https://github.com/user-attachments/assets/d453681f-c7fb-4acb-be2c-beb81064b2fa" />
+<img width="364" height="639" alt="image" src="https://github.com/user-attachments/assets/4ce7942a-2d66-4e60-abab-9fc26a2118c3" />
+<img width="363" height="636" alt="image" src="https://github.com/user-attachments/assets/d6fbf948-5c8c-4a7f-91d3-794bb007a686" />
+<img width="348" height="623" alt="image" src="https://github.com/user-attachments/assets/da06dd53-1dfd-43dc-88bf-c3082f35d08e" />
+
+
+
+
+
+
+
+
 ## Getting Started
+
 
 This project is a starting point for a Flutter application.
 
