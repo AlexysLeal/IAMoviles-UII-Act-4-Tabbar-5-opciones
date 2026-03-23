@@ -15,7 +15,8 @@ Prompt 4: Pantalla de Perfil de Usuario
 Prompt 5: Pantalla de Ajustes (Panel de Control)
 "Diseña la última sección llamada Ajustes. A diferencia de las anteriores, esta pantalla debe ser minimalista: sin listas ni imágenes de red. Coloca en el centro un único icono grande (size: 160) de configuración como Icons.manage_accounts o Icons.tune en un color blanco sutil o gris oscuro. Debajo del icono, añade el texto 'Preferencias del Sistema' con un espaciado de letras (letter-spacing) de 1.5 para un toque elegante."
 <img width="1220" height="663" alt="image" src="https://github.com/user-attachments/assets/6ca15b16-6a9d-43eb-9237-63532081c38d" />
-<img width="1220" height="663" alt="image" src="https://github.com/user-attachments/assets/6ca15b16-6a9d-43eb-9237-63532081c38d" />
+<img width="1222" height="663" alt="image" src="https://github.com/user-attachments/assets/53a9e22f-3ad5-43c9-abda-d2ec2b025f0d" />
+
 <img width="1227" height="668" alt="image" src="https://github.com/user-attachments/assets/6fe603b3-1b34-4d0d-a89a-9ca8f62d5819" />
 <img width="1228" height="660" alt="image" src="https://github.com/user-attachments/assets/ffc242ce-181e-4c10-af8b-47973d092664" />
 <img width="1222" height="652" alt="image" src="https://github.com/user-attachments/assets/d8edcd94-d4e4-4f26-80b1-7aaa3e033292" />
